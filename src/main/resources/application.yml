@@ -1,4 +1,5 @@
 # There are the default property values so can be omitted if being used
 web3j:
   client-address: http://localhost:8545
+#  client-address: https://rinkeby.infura.io/v3/<your rinkeby token>
   admin-client: true
